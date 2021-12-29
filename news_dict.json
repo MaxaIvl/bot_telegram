@@ -1,0 +1,140 @@
+{
+    "528108": {
+        "article_date_timestamp": 1640760911.0,
+        "article_title": "Дуров выступил с критикой в адрес американских мессенджеров",
+        "article_url": "https://www.securitylab.ru/news/528108.php",
+        "article_desc": "Дуров обвинил Signal и другие мессенджеры в том, что они внедряют бэкдоры по приказу правительства США."
+    },
+    "528107": {
+        "article_date_timestamp": 1640759621.0,
+        "article_title": "Вредонос RedLine показал, почему не стоит сохранять пароли в браузерах",
+        "article_url": "https://www.securitylab.ru/news/528107.php",
+        "article_desc": "Вредоносная программа нацелена на файл данных входа в систему, который есть во всех браузерах на основе Chromium."
+    },
+    "528106": {
+        "article_date_timestamp": 1640757635.0,
+        "article_title": "46 этичных хакеров протестировали платформу The Standoff 365",
+        "article_url": "https://www.securitylab.ru/news/528106.php",
+        "article_desc": "The Standoff 365 станет круглогодичной версией киберполигона The Standoff."
+    },
+    "528105": {
+        "article_date_timestamp": 1640755715.0,
+        "article_title": "В Log4j исправлена пятая по счету уязвимость за месяц",
+        "article_url": "https://www.securitylab.ru/news/528105.php",
+        "article_desc": "Уязвимость позволяет злоумышленнику удаленно выполнить код на уязвимой системе."
+    },
+    "528092": {
+        "article_date_timestamp": 1640699849.0,
+        "article_title": "Alexa предложила 10-летней девочке вставить монетку в розетку",
+        "article_url": "https://www.securitylab.ru/news/528092.php",
+        "article_desc": "Предложение появилось после того, как девочка попросила Alexa «найти испытание»."
+    },
+    "528091": {
+        "article_date_timestamp": 1640698968.0,
+        "article_title": "Эксперты рассказали о мощном инструменте АНБ DoubleFeature",
+        "article_url": "https://www.securitylab.ru/news/528091.php",
+        "article_desc": "Специалисты назвали DoubleFeature «голубой мечтой» команд реагирования на инциденты."
+    },
+    "528090": {
+        "article_date_timestamp": 1640695046.0,
+        "article_title": "В Китае раскритиковали Илона Маска из-за его спутников Starlink",
+        "article_url": "https://www.securitylab.ru/news/528090.php",
+        "article_desc": "Спутники Starlink Internet Services дважды оказывались на близком расстоянии от китайской космической станции."
+    },
+    "528070": {
+        "article_date_timestamp": 1640686321.0,
+        "article_title": "Бывший разработчик Tumblr прокомментировал цензуру порнографии со стороны Apple",
+        "article_url": "https://www.securitylab.ru/news/528070.php",
+        "article_desc": "Подавляющее большинство разработчиков приложений для iOS не в восторге от политики компании."
+    },
+    "528069": {
+        "article_date_timestamp": 1640684606.0,
+        "article_title": "Компьютерное зрение и лидары помогут автопилоту лучше видеть",
+        "article_url": "https://www.securitylab.ru/news/528069.php",
+        "article_desc": "По-отдельности компьютерное зрение и лидары не могут распознавать темные объекты, совсем другое дело, если использовать их вместе."
+    },
+    "528068": {
+        "article_date_timestamp": 1640679394.0,
+        "article_title": "У жителей Сальвадора пропали деньги из государственных криптокошельков Chivo",
+        "article_url": "https://www.securitylab.ru/news/528068.php",
+        "article_desc": "Общая сумма убытков составила более $96 тыс."
+    },
+    "528067": {
+        "article_date_timestamp": 1640676836.0,
+        "article_title": "Логистический гигант D.W. Morgan допустил утечку 100 ГБ данных",
+        "article_url": "https://www.securitylab.ru/news/528067.php",
+        "article_desc": "Доступ к 2,5 млн файлов с данными сотрудников и клиентов D.W. Morgan, включая Ericsson и Cisco, мог получить кто угодно."
+    },
+    "528066": {
+        "article_date_timestamp": 1640674949.0,
+        "article_title": "В Samsung Galaxy Store появился злой двойник пиратского приложения Showbox",
+        "article_url": "https://www.securitylab.ru/news/528066.php",
+        "article_desc": "Поддельные «клоны» Showbox способны заражать мобильные устройства вредоносным ПО."
+    },
+    "528064": {
+        "article_date_timestamp": 1640673091.0,
+        "article_title": "Количество фишинговых инструментов для обхода 2FA возросло до 1,2 тыс.",
+        "article_url": "https://www.securitylab.ru/news/528064.php",
+        "article_desc": "Это значительный скачок по сравнению с примерно 200 фишинговыми ресурсами конце 2018 года и начале 2019 года."
+    },
+    "528063": {
+        "article_date_timestamp": 1640668410.0,
+        "article_title": "Вымогатели eCh0raix устроили предпраздничную охоту на NAS QNAP",
+        "article_url": "https://www.securitylab.ru/news/528063.php",
+        "article_desc": "Пользователи сетевых хранилищ массово сообщают об атаках вымогательского ПО eCh0raix."
+    },
+    "528031": {
+        "article_date_timestamp": 1640618804.0,
+        "article_title": "Шутники поменяли оценки школьников в «Дневник.ру» (Обновлено)",
+        "article_url": "https://www.securitylab.ru/news/528031.php",
+        "article_desc": "От действий злоумышленника пострадали школьники из Воронежской области."
+    },
+    "528119": {
+        "article_date_timestamp": 1640792483.0,
+        "article_title": "Немецкие власти провалили массовый отказ от ПО Microsoft",
+        "article_url": "https://www.securitylab.ru/news/528119.php",
+        "article_desc": "Власти земли Гессен не смогли выбрать замену мессенджеру Teams для школ из-за бюрократических проволочек."
+    },
+    "528120": {
+        "article_date_timestamp": 1640786010.0,
+        "article_title": "Хакеры атакуют серверы с помощью руткита для HP iLO",
+        "article_url": "https://www.securitylab.ru/news/528120.php",
+        "article_desc": "Хотя руткит предоставляет полный контроль над системой, хакеры использовали его только для удаления данных."
+    },
+    "528117": {
+        "article_date_timestamp": 1640782082.0,
+        "article_title": "Гендира Google могут вызвать в суд по делу о конфиденциальности в Chrome",
+        "article_url": "https://www.securitylab.ru/news/528117.php",
+        "article_desc": "В 2019 году Пичай был предупрежден о проблемах с режимом инкогнито, однако с тех пор ситуация не изменилась."
+    },
+    "528115": {
+        "article_date_timestamp": 1640780276.0,
+        "article_title": "Обзор инцидентов безопасности за период с 23 по 29 декабря 2021 года",
+        "article_url": "https://www.securitylab.ru/news/528115.php",
+        "article_desc": "Краткий обзор главных событий в мире ИБ за неделю."
+    },
+    "528114": {
+        "article_date_timestamp": 1640776851.0,
+        "article_title": "Новая модель машинного обучения позволит ИИ понимать человеческий диалог",
+        "article_url": "https://www.securitylab.ru/news/528114.php",
+        "article_desc": "Технология поможет компьютерам «понимать» устный или письменный текст так же, как это делают люди."
+    },
+    "528112": {
+        "article_date_timestamp": 1640769111.0,
+        "article_title": "Норвежский издатель Amedia приостановил печать газет из-за кибератаки",
+        "article_url": "https://www.securitylab.ru/news/528112.php",
+        "article_desc": "Взлом также повлиял на рекламные системы и системы подписок компании."
+    },
+    "528111": {
+        "article_date_timestamp": 1640766736.0,
+        "article_title": "Китай намерен стать центром глобальной робототехнической индустрии к 2025 году",
+        "article_url": "https://www.securitylab.ru/news/528111.php",
+        "article_desc": "Власти прогнозируют рост операционной прибыли индустрии робототехники Китая в среднем на 20% в год."
+    },
+    "528110": {
+        "article_date_timestamp": 1640764831.0,
+        "article_title": "Пользователи LastPass беспокоятся, что их пароли могли быть взломаны",
+        "article_url": "https://www.securitylab.ru/news/528110.php",
+        "article_desc": "Пользователи массово получают уведомления о попытках третьих сторон авторизоваться в их учетных записях."
+    }
+}
